@@ -34,9 +34,13 @@
   padding-top: 40px;
 
 }
-/* .what{
-  text-align: center;
-  margin: auto;
+.contacts{
+  position: absolute;
+  left: 50%;
+  top: 10%;
 }
-.what h1{text-align: center;} */
 
+.contact-img{
+  height: 300px;
+  width: 100vw;
+}
