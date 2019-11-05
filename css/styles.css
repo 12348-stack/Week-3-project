@@ -44,3 +44,17 @@
   height: 300px;
   width: 100vw;
 }
+
+.center{
+  position: absolute;
+  left: 5%;
+  top: 10%;
+}
+.serv{
+  height: 350px;
+  width: 100vw;
+}
+.text-center{
+  margin: 50px;
+  
+}
